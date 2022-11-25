@@ -1,0 +1,5 @@
+list1=[2,43,51,65,32]
+sum=0
+for i in list1:
+    s=s+i
+print(s)
