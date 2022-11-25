@@ -1,0 +1,6 @@
+list1=[77,2,3,4,5]
+mini=99
+for i in list1:
+    if mini>i:
+       mini =i
+print(mini)
